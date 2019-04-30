@@ -1,0 +1,3 @@
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal\obj\Debug\SocialGoal.Web.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal\obj\Debug\SocialGoal.Properties.Resources.resources
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal\obj\Debug\SocialGoal.Web.csproj.GenerateResource.Cache

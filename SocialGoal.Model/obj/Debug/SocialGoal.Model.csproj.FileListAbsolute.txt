@@ -1,0 +1,11 @@
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\bin\Debug\SocialGoal.Model.dll
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\bin\Debug\SocialGoal.Model.pdb
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\bin\Debug\SocialGoal.Core.dll
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\bin\Debug\SocialGoal.Core.pdb
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\obj\Debug\SocialGoal.Model.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\obj\Debug\SocialGoal.Model.dll
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Model\obj\Debug\SocialGoal.Model.pdb

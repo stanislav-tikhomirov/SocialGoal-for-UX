@@ -1,0 +1,5 @@
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Core\bin\Debug\SocialGoal.Core.dll
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Core\bin\Debug\SocialGoal.Core.pdb
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Core\obj\Debug\SocialGoal.Core.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Core\obj\Debug\SocialGoal.Core.dll
+C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Core\obj\Debug\SocialGoal.Core.pdb
