@@ -98,6 +98,7 @@
     <Compile Include="Controllers\SearchControllerTest.cs" />
     <Compile Include="Helpers\MemoryUser.cs" />
     <Compile Include="Helpers\TestUserStore.cs" />
+    <Compile Include="MyTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
